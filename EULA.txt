@@ -1,0 +1,29 @@
+SHOTREEL END USER LICENSE AGREEMENT
+
+Copyright (c) 2026 Rajesh Katukojwala. All rights reserved.
+
+DRAFT: have a lawyer review before commercial distribution.
+
+1. Grant. You may install and use ShotReel (the "Software") free of charge, on any number of computers, for personal,
+   educational and commercial purposes, including to make videos and documents about your own or your employer's software.
+
+2. Your content. You own the projects, screenshots, narration and videos you create. The Software does not add a watermark,
+   and it does not claim any rights in your output.
+
+3. Restrictions. You may not sell, rent, sublicense or redistribute the Software, offer it as a hosted service, remove
+   notices, or reverse engineer it except where the law allows despite this restriction.
+
+4. Third-party components. The Software includes third-party components under their own licences, listed in
+   THIRD-PARTY-NOTICES.md. Those licences apply to those components. Nothing here limits rights they give you
+   (for example replacing the LGPL libraries FFmpeg and libvips).
+
+5. Privacy. The Software runs on your computer and does not send your projects or usage data anywhere. Recording a web
+   application opens the address you enter; that traffic goes to that site.
+
+6. Future versions. The core features of this free version stay free. Future paid editions may add features and are
+   licensed separately.
+
+7. No warranty. The Software is provided "as is" without warranty of any kind. To the fullest extent permitted by law the
+   author is not liable for any damages arising from its use.
+
+8. Termination. This licence ends automatically if you breach it. Then stop using the Software and delete your copies.
