@@ -52,4 +52,5 @@ Free to use, including at work. You may not resell or redistribute ShotReel. See
 
 ## Support
 
-Questions, bugs and feature requests: open an [issue](https://github.com/rNetGit/ShotReel-app/issues) or email **cloudwareedge@gmail.com**.Teams that want a paid tier or a pilot: tell us what you need, it decides what gets built next.
+Questions, bugs and feature requests: open an [issue](https://github.com/rNetGit/ShotReel-app/issues) or email **cloudwareedge@gmail.com**.
+Teams that want a paid tier or a pilot: tell us what you need, it decides what gets built next.
